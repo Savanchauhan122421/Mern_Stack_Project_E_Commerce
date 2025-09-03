@@ -2,7 +2,7 @@
 This is i made using react , javascript [ES6],express , for databse use MongoDB, and make admin panel user panel seprate.
 
 
-## Savanpharma – MERN Food Ordering Platform (Monorepo)
+## Savanpharma – MERN Pharmacy medicne delvering (Monorepo)
 
 Savanpharma is a MERN stack application consisting of:
 - **Frontend**: customer-facing React app
